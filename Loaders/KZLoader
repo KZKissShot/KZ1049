@@ -1,1 +1,21 @@
-
+{
+  "User": [
+    {
+      "name": "Laoxu",
+      "auth": ""
+    }
+  ],
+  "Lua": [
+    {
+      "name": "",
+      "uri": ""
+    }
+  ],
+  "Config": [
+    {
+      "name": "",
+      "uri": ""
+    }
+  ],
+  "LoaderVersion": "2021.6.23.1134"
+}
