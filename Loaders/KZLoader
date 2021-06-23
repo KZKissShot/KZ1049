@@ -7,8 +7,12 @@
   ],
   "Lua": [
     {
-      "name": "",
-      "uri": ""
+      "name": "KZWeapon",
+      "uri": "https://raw.githubusercontent.com/KZKissShot/KZ1049/main/Lua/KZWeapon"
+    },
+    {
+      "name": "KZAA",
+      "uri": "https://raw.githubusercontent.com/KZKissShot/KZ1049/main/Lua/KZAA"
     }
   ],
   "Config": [
